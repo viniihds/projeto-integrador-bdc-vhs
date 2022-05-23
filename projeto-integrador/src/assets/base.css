@@ -61,9 +61,11 @@ a > p {
   font-size: 0.75em;
 }
 .navbar-items{
-  padding-right: 175px;
-  padding-top: 15px;
+  padding-right: 200px;
+  padding-top: 30px;
   padding-left: 20px;
+  font-weight: bold;
+  font-size: 1.5em;
 }
 .sidenav-items{
   padding-bottom: 45px;
@@ -73,6 +75,7 @@ a > p {
   height: 50px;
   width: 50px;
   padding: 5px;
+  background-color: white;
 }
 .btn-sidenav{
   background-color:#65a30d;
